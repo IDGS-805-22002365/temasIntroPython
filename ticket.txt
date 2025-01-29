@@ -1,0 +1,8 @@
+----- Ticket de Compras -----
+Nombre: juan
+Total a pagar: 91.8
+
+Nombre: veronica
+Total a pagar: 21.6
+
+Total general: 113.4
